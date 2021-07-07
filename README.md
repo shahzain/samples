@@ -1,5 +1,5 @@
 # .NET Samples
-This is may sample.
+
 ![Markdownlint](https://github.com/dotnet/samples/workflows/Markdownlint/badge.svg)
 
 This repo contains all the sample code that is part of any topic under
